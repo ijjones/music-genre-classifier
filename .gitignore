@@ -1,0 +1,10 @@
+# Ignore dataset and models
+data/
+models/
+__pycache__/
+venv/
+.DS_Store
+*.wav
+*.mp3
+*.pkl
+*.h5
